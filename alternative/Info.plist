@@ -4,9 +4,8 @@
 <dict>
 	<key>UIAppFonts</key>
 	<array>
-		<string>JF-Dot-ShinonomeMin12.ttf</string>
-		<string>JF-Dot-Shinonome14.ttf</string>
 		<string>PixelMplus12-Bold.ttf</string>
+		<string>HalogenbyPixelSurplus-Regular.otf</string>
 	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
